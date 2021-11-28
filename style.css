@@ -10,8 +10,9 @@ h1 {color:grey;
     border-radius: 25px;
     text-align: center
 }
+.center {
+    margin: auto
+}
 .footer {
     text-align: left
 }
-
-
